@@ -1,0 +1,15 @@
+{
+  "software_version": "0.3.2",
+  "sha256": {
+    "R/demo_data.R": "3ee086831afd1a5bc8b8c658242f32be8080837049f44312b5120a5b9befbd65",
+    "R/engine.R": "633cecb7151433ca656032336d2ac298290d6cbb8caacc97f2ead21eb720c8eb",
+    "R/results.R": "c823990091e684fcdddfaf939695a96909fd4a47c463e180a0215662c884bab1",
+    "app.R": "f05cbd421c503388ceccf2c9b53330af1aa766c466a44307a21d9294bab2fcd4",
+    "renv.lock": "d710848c4ded5e7fd287aa6347f4b7daf3983eb25da782d33550305f3bcc3106",
+    "scripts/restore_environment.R": "59a2080357069f30ede189d9437c51d4adc0a65b8358dfaf0f68c0ccb83b29b1",
+    "tests/test_engine.R": "f23c9e28d86e06545e5528fb971a7e2b2c524f70582efa415182610a4dae485c",
+    "tests/test_metric_support.R": "a84e0284a484e38dae28276a8224a5b68384d654499584f40b0327eeb77afe18",
+    "tests/test_plotting.R": "03c2b4427ab0f8cf9dfcacc8dd67b830ad80cd2ac0bc3a2debd3cf3bf9b359a5",
+    "tests/test_server.R": "8215e3a937d9ab25d097f6bf6d93d4959c0f2b90286e1f4b19b27cd62f2622d6"
+  }
+}

@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# R session artefacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv — only the lockfile and activate script are committed;
+# the installed library is platform-specific and must not be committed.
+renv/library/
+renv/local/
+renv/cellar/
+renv/staging/
+renv/sandbox/
+renv/python/
+
+# Local inputs, exports, libraries and deployment metadata are outside the release.
+.Rlibrary/
+rsconnect/
+demo_data/
+*.csv
+*.rds
+*.png
+*.pdf
+*.zip
